@@ -1,0 +1,5 @@
+Wikipedia-API==0.5.4
+streamlit==0.78.0
+spacy-streamlit==0.1.0
+spacy==2.3.5
+
